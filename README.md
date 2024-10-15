@@ -1,6 +1,6 @@
 ### Bem vindo(a)!!! 👋
 
-<h1 align="center">Olá, eu sou Arthur Santos Azevedoh1>
+<h1 align="center">Olá, eu sou Arthur Santos Azevedo<h1>
 <h3 align="center">Sou apaixonado por tecnologia e estou constantemente estudando e aprimorando minhas habilidades.</h3>
 
 <h3 align="left">Redes Sociais:</h3>
