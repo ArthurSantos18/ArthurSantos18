@@ -1,6 +1,6 @@
 ### 👋 Bem-vindo(a) ao meu perfil!
 
-<h1 align="center">Olá, eu sou Arthur Santos Azevedo</h1>
+<h1 align="center">Olá, me chamo Arthur 👋</h1>
 <h3 align="center">💻 Entusiasta de tecnologia apaixonado por programação e desenvolvimento de software! 🚀</h3>
 
 ---
