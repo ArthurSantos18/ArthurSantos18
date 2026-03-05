@@ -1,7 +1,7 @@
 ### 👋 Bem-vindo(a) ao meu perfil!
 
 <h1 align="center">Olá, me chamo Arthur 👋</h1>
-<h3 align="center">💻 Sou entusiasta de tecnologia e apaixonado por programação e desenvolvimento de software. Gosto de construir soluções bem estruturadas, seguras.🚀</h3>
+<h3 align="center">💻 Desenvolvedor apaixonado por tecnologia e construção de soluções bem estruturadas, seguras e escaláveis.</h3>
 
 ---
 
