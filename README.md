@@ -48,12 +48,11 @@
 
 ---
 
-### 🧠 Conhecimentos e Prática
+### 🧠 Conhecimentos e Práticas
 - 🏗️ Clean Architecture · 🔄 CQRS · 🧩 SOLID
 - 🌐 REST APIs · 🔐 JWT / Autenticação
-- 🧪 Testes unitários (xUnit)
-- 📨 Microsserviços com Azure Service Bus
-- 🗃️ MongoDB, SQL Server, MySQL e SQLite
+- 🧪 Testes unitários
+- 📨 Microsserviços
 - ☁️ Azure Cloud · 🔧 Git/GitHub
 
 ---
